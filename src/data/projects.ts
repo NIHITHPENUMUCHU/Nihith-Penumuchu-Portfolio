@@ -28,7 +28,7 @@ export const projects: Project[] = [
   {
     title: "WaveLength",
     description: "Discover the Best Food & Drinks From local favorites to premium restaurants",
-    image: "/feastfinder1.png",
+    image: "/wavelength1.png",
     tags: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "https://github.com/NIHITHPENUMUCHU/Wavelength",
     live: "https://wavelength-peach.vercel.app/"
