@@ -19,7 +19,7 @@ export function Navigation() {
             whileHover={{ scale: 1.1 }}
             className="text-2xl font-bold text-emerald-400"
           >
-            NIHITH'S PORTFOLIO
+            N
           </motion.span>
           
           {/* Mobile Menu Button */}
