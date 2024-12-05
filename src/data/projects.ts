@@ -24,7 +24,7 @@ export const projects: Project[] = [
     tags: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "https://github.com/NIHITHPENUMUCHU/feast-finder",
     live: "https://feast-finder-lovat.vercel.app/"
-  }
+  },
   {
     title: "WaveLength",
     description: "Discover the Best Food & Drinks From local favorites to premium restaurants",
