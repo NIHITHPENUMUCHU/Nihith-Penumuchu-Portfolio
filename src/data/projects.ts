@@ -10,7 +10,7 @@ export const projects: Project[] = [
     live: "https://3d-racing-game.vercel.app/"
   },
   {
-    title: "Portfolio Website",
+    title: "SkillBridge",
     description: "A modern portfolio website showcasing my work and skills",
     image: "/SkilBridge1.png",
     tags: ["React", "Tailwind", "TypeScript", "Framer Motion"],
@@ -18,9 +18,9 @@ export const projects: Project[] = [
     live: "https://nihithportfolio-nwdqj0ck8-ra2111026010124s-projects.vercel.app"
   },
   {
-    title: "E-commerce Platform",
-    description: "A feature-rich e-commerce platform with user authentication and payment integration",
-    image: "public/feastfinder1.png",
+    title: "FeastFinder",
+    description: "Discover the Best Food & Drinks From local favorites to premium restaurants",
+    image: "/feastfinder1.png",
     tags: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "https://github.com/NIHITHPENUMUCHU/Ecommerce-Platform",
     live: "https://ecommerce-platform-nihith.vercel.app"
