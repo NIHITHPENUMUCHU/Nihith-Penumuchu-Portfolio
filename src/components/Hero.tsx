@@ -7,7 +7,7 @@ export function Hero() {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
     link.href = '/Nihith-Penumuchu-Resume-podai-.pdf';
-    link.download = 'Nihith_Penumuchu_Resume.pdf';
+    link.download = 'Nihith-Penumuchu-Resume-podai-.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
