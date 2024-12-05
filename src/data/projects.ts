@@ -14,15 +14,23 @@ export const projects: Project[] = [
     description: "A modern portfolio website showcasing my work and skills",
     image: "/SkilBridge1.png",
     tags: ["React", "Tailwind", "TypeScript", "Framer Motion"],
-    github: "https://github.com/NIHITHPENUMUCHU/Portfolio",
-    live: "https://nihithportfolio-nwdqj0ck8-ra2111026010124s-projects.vercel.app"
+    github: "https://github.com/NIHITHPENUMUCHU/SkillBridge",
+    live: "https://skillbridge-brown.vercel.app/"
   },
   {
     title: "FeastFinder",
     description: "Discover the Best Food & Drinks From local favorites to premium restaurants",
     image: "/feastfinder1.png",
     tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    github: "https://github.com/NIHITHPENUMUCHU/Ecommerce-Platform",
-    live: "https://ecommerce-platform-nihith.vercel.app"
+    github: "https://github.com/NIHITHPENUMUCHU/feast-finder",
+    live: "https://feast-finder-lovat.vercel.app/"
+  }
+  {
+    title: "WaveLength",
+    description: "Discover the Best Food & Drinks From local favorites to premium restaurants",
+    image: "/feastfinder1.png",
+    tags: ["React", "Node.js", "MongoDB", "Stripe"],
+    github: "https://github.com/NIHITHPENUMUCHU/Wavelength",
+    live: "https://wavelength-peach.vercel.app/"
   }
 ];
