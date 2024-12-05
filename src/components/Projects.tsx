@@ -21,9 +21,9 @@ export function Projects() {
       tags: ["Vue.js", "Firebase", "Tailwind"]
     }
     {
-      title: "Task Management App",
+      title: "Wavelength",
       description: "A collaborative task management application with real-time updates",
-      image: "/SkilBridge1.png",
+      image: "public/wavelength1.png",
       tags: ["Vue.js", "Firebase", "Tailwind"]
     }
   ];
