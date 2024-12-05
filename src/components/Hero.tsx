@@ -6,7 +6,7 @@ import { RotatingCircle } from './ui/RotatingCircle';
 export function Hero() {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/resume.pdf';
+    link.href = '/Nihith-Penumuchu-Resume-podai-.pdf';
     link.download = 'Nihith_Penumuchu_Resume.pdf';
     document.body.appendChild(link);
     link.click();
