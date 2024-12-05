@@ -20,6 +20,12 @@ export function Projects() {
       image: "/SkilBridge1.png",
       tags: ["Vue.js", "Firebase", "Tailwind"]
     }
+    {
+      title: "Task Management App",
+      description: "A collaborative task management application with real-time updates",
+      image: "/SkilBridge1.png",
+      tags: ["Vue.js", "Firebase", "Tailwind"]
+    }
   ];
 
   return (
