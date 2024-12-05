@@ -5,19 +5,19 @@ export function Projects() {
     {
       title: "3D Racing Game",
       description: "A small 3D racing made using JavaScript. use Arrow to move. c - camera change;",
-      image: "https://drive.google.com/file/d/1HFvIt0CO701e6A9rVIIkRirSa0TMiwyA/view?usp=sharing",
+      image: "/3d car racing.png",
       tags: ["JavaScript"]
     },
     {
       title: "Portfolio Website",
       description: "A modern portfolio website showcasing my work and skills",
-      image: "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80",
+      image: "/feastfinder1.png",
       tags: ["React", "Tailwind", "TypeScript"]
     },
     {
       title: "Task Management App",
       description: "A collaborative task management application with real-time updates",
-      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80",
+      image: "/SkilBridge1.png",
       tags: ["Vue.js", "Firebase", "Tailwind"]
     }
   ];
