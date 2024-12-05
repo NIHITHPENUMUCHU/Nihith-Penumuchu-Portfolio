@@ -19,7 +19,7 @@ export function Projects() {
       description: "A collaborative task management application with real-time updates",
       image: "/SkilBridge1.png",
       tags: ["Vue.js", "Firebase", "Tailwind"]
-    }
+    },
     {
       title: "Wavelength",
       description: "A collaborative task management application with real-time updates",
