@@ -1,0 +1,5 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import { FileWarning } from 'lucide-react';
+export function PDFErrorFallback() {
+    return (_jsxs("div", { className: "flex flex-col items-center justify-center h-[600px] bg-gray-700 rounded-lg p-8", children: [_jsx(FileWarning, { className: "w-16 h-16 text-emerald-400 mb-4" }), _jsx("h3", { className: "text-xl font-semibold mb-2", children: "Resume Not Available" }), _jsx("p", { className: "text-gray-300 text-center mb-4", children: "The resume PDF file is currently unavailable. Please try again later or contact me directly." }), _jsxs("div", { className: "flex gap-4", children: [_jsx("a", { href: "mailto:nihithpenumuchu@gmail.com", className: "px-4 py-2 bg-emerald-400 text-gray-900 rounded-lg hover:bg-emerald-500 transition-colors", children: "Contact Me" }), _jsx("a", { href: "https://www.linkedin.com/in/nihith-penumuchu-132219253/", target: "_blank", rel: "noopener noreferrer", className: "px-4 py-2 bg-gray-600 text-white rounded-lg hover:bg-gray-500 transition-colors", children: "View LinkedIn" })] })] }));
+}
