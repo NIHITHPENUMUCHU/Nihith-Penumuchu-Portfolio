@@ -51,7 +51,7 @@ export function About() {
                 LeetCode
               </a>
               <a 
-                href="https://www.codechef.com/users/nihith_07"
+                href="https://www.hackerrank.com/profile/ns2995"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-gray-700 rounded-lg hover:bg-gray-600 transition-colors"
